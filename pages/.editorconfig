@@ -1,0 +1,5 @@
+root = true
+
+[*] #regra vale para todos os aquivos
+index_style = space
+index_size = 2
