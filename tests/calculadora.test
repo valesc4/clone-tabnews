@@ -1,0 +1,5 @@
+test("nome do teste", callbackFunction);
+
+function callbackFunction(){
+    console.log("está função está sendo chamada?")
+}
